@@ -1,0 +1,6 @@
+@VocaloidVortex.api_HostAddress = http://localhost:5067
+
+GET {{VocaloidVortex.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
